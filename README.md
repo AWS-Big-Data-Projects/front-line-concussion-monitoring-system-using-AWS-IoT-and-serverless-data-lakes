@@ -1,5 +1,5 @@
 # front-line-concussion-monitoring-system-using-AWS-IoT-and-serverless-data-lakes
-aaa
+
 
 A simple, practical, and affordable system for measuring head trauma within the sports environment, subject to the absence of trained medical personnel made using Amazon Kinesis Data Streams, Kinesis Data Analytics, Kinesis Data Firehose, and AWS Lambda
 
