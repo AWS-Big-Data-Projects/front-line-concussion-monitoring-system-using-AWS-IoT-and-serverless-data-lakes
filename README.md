@@ -7,7 +7,6 @@ A simple, practical, and affordable system for measuring head trauma within the 
 ![image](https://user-images.githubusercontent.com/48589838/77403006-8d0b2180-6dd5-11ea-8e4e-54978db892b1.png)
 
 
-
 For the purposes of our demonstration, we chose to use heart rate monitoring sensors rather than helmet sensors because they are significantly easier to acquire. Both types of sensors are very similar in how they transmit data. They are also very similar in terms of how they are integrated into a data lake solution.
 
 
