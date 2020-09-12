@@ -4,8 +4,6 @@
 A simple, practical, and affordable system for measuring head trauma within the sports environment, subject to the absence of trained medical personnel made using Amazon Kinesis Data Streams, Kinesis Data Analytics, Kinesis Data Firehose, and AWS Lambda
 
 
-
-
 ![image](https://user-images.githubusercontent.com/48589838/77403006-8d0b2180-6dd5-11ea-8e4e-54978db892b1.png)
 
 
